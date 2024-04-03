@@ -23,7 +23,7 @@
 		<webMaster>
 			<![CDATA[indignity@indignity.net]]>
 		</webMaster>
-		<itunes:new-feed-url>https://api.substack.com/feed/podcast/14563/s/49099.rss</itunes:new-feed-url>
+		<itunes:new-feed-url>https://podcast.indignity.net/rss</itunes:new-feed-url>
 		<itunes:author>TOM SCOCCA</itunes:author>
 		<itunes:subtitle>Tom Scocca reads you the newspaper.</itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
