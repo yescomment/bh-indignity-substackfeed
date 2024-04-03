@@ -5,12 +5,12 @@
 			<![CDATA[INDIGNITY MORNING PODCAST]]>
 		</title>
 		<description>
-			<![CDATA[Tom Scocca reads you the newspaper. <br/><br/><a href="https://indignity.substack.com/s/indignity-morning-podcast?utm_medium=podcast">indignity.substack.com</a>]]>
+			<![CDATA[Tom Scocca reads you the newspaper.]]>
 		</description>
-		<link>https://indignity.substack.com/s/indignity-morning-podcast</link>
+		<link>https://indignity.net</link>
 		<generator>Substack</generator>
 		<lastBuildDate>Tue, 02 Apr 2024 23:49:06 GMT</lastBuildDate>
-		<atom:link href="https://api.substack.com/feed/podcast/14563/s/49099.rss" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://bh-indignity-substackfeed.vercel.app/feed.rss" rel="self" type="application/rss+xml"/>
 		<author>
 			<![CDATA[TOM SCOCCA]]>
 		</author>
@@ -21,7 +21,7 @@
 			<![CDATA[en]]>
 		</language>
 		<webMaster>
-			<![CDATA[indignity@substack.com]]>
+			<![CDATA[indignity@indignity.net]]>
 		</webMaster>
 		<itunes:new-feed-url>https://api.substack.com/feed/podcast/14563/s/49099.rss</itunes:new-feed-url>
 		<itunes:author>TOM SCOCCA</itunes:author>
@@ -29,20 +29,20 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>TOM SCOCCA</itunes:name>
-			<itunes:email>indignity@substack.com</itunes:email>
+			<itunes:email>indignity@indignity.net</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="News">
 			<itunes:category text="Daily News"/>
 		</itunes:category>
 		<itunes:category text="News"/>
-		<itunes:image href="https://substackcdn.com/feed/podcast/14563/s/49099/d99e220caedf3f518d45110501fe644d.jpg"/>
+		<itunes:image href="https://bh-indignity-substackfeed.vercel.app/cover.jpg"/>
 		<item>
 			<title>
 				<![CDATA[Indignity Morning Podcast No. 240: The Times thinks there is a difference.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-240</link>
 			<guid isPermaLink="false">substack:post:142765311</guid>
@@ -61,7 +61,7 @@
 				<![CDATA[Indignity Morning Podcast No. 239: Remember the big debate in Congress about our war in Niger?]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-239</link>
 			<guid isPermaLink="false">substack:post:142722495</guid>
@@ -80,7 +80,7 @@
 				<![CDATA[Indignity Morning Podcast No. 238: Forever over the horizon.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-238</link>
 			<guid isPermaLink="false">substack:post:142646465</guid>
@@ -99,7 +99,7 @@
 				<![CDATA[Indignity Morning Podcast No. 237: A sort of Brexit vibe.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-237</link>
 			<guid isPermaLink="false">substack:post:142614051</guid>
@@ -118,7 +118,7 @@
 				<![CDATA[Indignity Morning Podcast No. 236: Speaking of insincerity.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-236</link>
 			<guid isPermaLink="false">substack:post:142578999</guid>
@@ -137,7 +137,7 @@
 				<![CDATA[Indignity Morning Podcast No. 235: A murky, slightly out-of-register package of newspaper photographs.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-235</link>
 			<guid isPermaLink="false">substack:post:142547801</guid>
@@ -156,7 +156,7 @@
 				<![CDATA[Indignity Morning Podcast No. 234: Ignorance and arrogance.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-234</link>
 			<guid isPermaLink="false">substack:post:142516855</guid>
@@ -175,7 +175,7 @@
 				<![CDATA[Indignity Morning Podcast No. 233: How are the vibes?]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-233</link>
 			<guid isPermaLink="false">substack:post:142429362</guid>
@@ -194,7 +194,7 @@
 				<![CDATA[Indignity Morning Podcast No. 231: Running with the mob.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-231</link>
 			<guid isPermaLink="false">substack:post:142359099</guid>
@@ -213,7 +213,7 @@
 				<![CDATA[Indignity Morning Podcast No. 230: Managing and packaging your expectations.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-230</link>
 			<guid isPermaLink="false">substack:post:142328308</guid>
@@ -232,7 +232,7 @@
 				<![CDATA[Indignity Morning Podcast No. 229: How is that national temperature?]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-229</link>
 			<guid isPermaLink="false">substack:post:142297648</guid>
@@ -251,7 +251,7 @@
 				<![CDATA[Indignity Morning Podcast No. 228: A really interesting turn of phrase.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-228</link>
 			<guid isPermaLink="false">substack:post:142211407</guid>
@@ -270,7 +270,7 @@
 				<![CDATA[Indignity Morning Podcast No. 227: Was this the most important news story of the day?]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-227</link>
 			<guid isPermaLink="false">substack:post:142179516</guid>
@@ -289,7 +289,7 @@
 				<![CDATA[Indignity Morning Podcast No. 226: A photo-opportunity as an opportunity to take a photo.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-226</link>
 			<guid isPermaLink="false">substack:post:142139145</guid>
@@ -308,7 +308,7 @@
 				<![CDATA[Indignity Morning Podcast No. 225: Vagueness and personification.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-225</link>
 			<guid isPermaLink="false">substack:post:142100912</guid>
@@ -327,7 +327,7 @@
 				<![CDATA[Indignity Morning Podcast No. 224: Panda deals.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-224</link>
 			<guid isPermaLink="false">substack:post:141970244</guid>
@@ -346,7 +346,7 @@
 				<![CDATA[Indignity Morning Podcast No. 223: Sliding into the abyss.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-223</link>
 			<guid isPermaLink="false">substack:post:141929786</guid>
@@ -365,7 +365,7 @@
 				<![CDATA[Indignity Morning Podcast No. 222: Unfairly labeled as bigots.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-222</link>
 			<guid isPermaLink="false">substack:post:141900895</guid>
@@ -384,7 +384,7 @@
 				<![CDATA[Indignity Morning Podcast No. 221: A dispirited electorate.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-221</link>
 			<guid isPermaLink="false">substack:post:141867658</guid>
@@ -403,7 +403,7 @@
 				<![CDATA[Indignity Morning Podcast No. 220: A front-page news analysis piece in the New York Times]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-220</link>
 			<guid isPermaLink="false">substack:post:141735366</guid>
@@ -422,7 +422,7 @@
 				<![CDATA[Indignity Morning Podcast No. 219: Doing it because it works.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-219</link>
 			<guid isPermaLink="false">substack:post:141699970</guid>
@@ -441,7 +441,7 @@
 				<![CDATA[Indignity Morning Podcast No. 218: Totally powerless.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-218</link>
 			<guid isPermaLink="false">substack:post:141671364</guid>
@@ -460,7 +460,7 @@
 				<![CDATA[Indignity Morning Podcast No. 217: Florida, as well as Texas, Arizona, and Southern California.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-217</link>
 			<guid isPermaLink="false">substack:post:141606970</guid>
@@ -479,7 +479,7 @@
 				<![CDATA[Indignity Morning Podcast No. 216: Someone said something.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-215-1ef</link>
 			<guid isPermaLink="false">substack:post:141526311</guid>
@@ -498,7 +498,7 @@
 				<![CDATA[Indignity Morning Podcast No. 215: The standard reward.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-215</link>
 			<guid isPermaLink="false">substack:post:141496525</guid>
@@ -517,7 +517,7 @@
 				<![CDATA[Indignity Morning Podcast No. 214: A great opportunity to read something in the newspaper and come away knowing less than you knew before.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-214</link>
 			<guid isPermaLink="false">substack:post:141464613</guid>
@@ -536,7 +536,7 @@
 				<![CDATA[Indignity Morning Podcast No. 213: Indispensable allies in the region.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-213</link>
 			<guid isPermaLink="false">substack:post:141431079</guid>
@@ -555,7 +555,7 @@
 				<![CDATA[Indignity Morning Podcast No. 212: Last week Tuesday.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-212</link>
 			<guid isPermaLink="false">substack:post:141401358</guid>
@@ -574,7 +574,7 @@
 				<![CDATA[Indignity Morning Podcast No. 211: Doggos, science, put it on page one.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-211</link>
 			<guid isPermaLink="false">substack:post:141315820</guid>
@@ -593,7 +593,7 @@
 				<![CDATA[Indignity Morning Podcast No. 210: Reassure the humans.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-209-e12</link>
 			<guid isPermaLink="false">substack:post:141279113</guid>
@@ -612,7 +612,7 @@
 				<![CDATA[Indignity Morning Podcast No. 209: What is the news?]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-209</link>
 			<guid isPermaLink="false">substack:post:141240373</guid>
@@ -631,7 +631,7 @@
 				<![CDATA[Indignity Morning Podcast No. 208: Team Biden seems committed.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-208</link>
 			<guid isPermaLink="false">substack:post:141201999</guid>
@@ -650,7 +650,7 @@
 				<![CDATA[Indignity Morning Podcast No. 207: Fog of abstractions.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-20</link>
 			<guid isPermaLink="false">substack:post:141164049</guid>
@@ -669,7 +669,7 @@
 				<![CDATA[Indignity Morning Podcast No. 206: Blithe indifference.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-206</link>
 			<guid isPermaLink="false">substack:post:141075001</guid>
@@ -688,7 +688,7 @@
 				<![CDATA[Indignity Morning Podcast No. 205: Incapable of describing basic events.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-205</link>
 			<guid isPermaLink="false">substack:post:141043744</guid>
@@ -707,7 +707,7 @@
 				<![CDATA[Indignity Morning Podcast No. 204: Chillingly fatuous.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-204</link>
 			<guid isPermaLink="false">substack:post:141003837</guid>
@@ -726,7 +726,7 @@
 				<![CDATA[Indignity Morning Podcast No. 203: Higher education. ]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-203</link>
 			<guid isPermaLink="false">substack:post:140967320</guid>
@@ -745,7 +745,7 @@
 				<![CDATA[Indignity Morning Podcast No. 202: Immeasurably far behind.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-202</link>
 			<guid isPermaLink="false">substack:post:140933383</guid>
@@ -764,7 +764,7 @@
 				<![CDATA[Indignity Morning Podcast No. 201: An urgent desire.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-201</link>
 			<guid isPermaLink="false">substack:post:140843130</guid>
@@ -783,7 +783,7 @@
 				<![CDATA[Indignity Morning Podcast No. 200: A bit of a conceptual stretch.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-200</link>
 			<guid isPermaLink="false">substack:post:140809300</guid>
@@ -802,7 +802,7 @@
 				<![CDATA[Indignity Morning Podcast No. 199: For whom is this Political Memo being memorandized?]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-199</link>
 			<guid isPermaLink="false">substack:post:140779729</guid>
@@ -821,7 +821,7 @@
 				<![CDATA[Indignity Morning Podcast No. 198: The unspoken subtext.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-198</link>
 			<guid isPermaLink="false">substack:post:140749608</guid>
@@ -840,7 +840,7 @@
 				<![CDATA[Indignity Morning Podcast No. 197: The teens of Newark.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-197</link>
 			<guid isPermaLink="false">substack:post:140621894</guid>
@@ -859,7 +859,7 @@
 				<![CDATA[Indignity Morning Podcast No. 196: The standard coda.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-196</link>
 			<guid isPermaLink="false">substack:post:140585166</guid>
@@ -878,7 +878,7 @@
 				<![CDATA[Indignity Morning Podcast No. 195: A cute little mouse.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-195</link>
 			<guid isPermaLink="false">substack:post:140551235</guid>
@@ -897,7 +897,7 @@
 				<![CDATA[Indignity Morning Podcast No. 194: A minuscule minority.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-194</link>
 			<guid isPermaLink="false">substack:post:140519669</guid>
@@ -916,7 +916,7 @@
 				<![CDATA[Indignity Morning Podcast No. 193: A proper old-fashioned winter Nor'easter.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-193</link>
 			<guid isPermaLink="false">substack:post:140483813</guid>
@@ -935,7 +935,7 @@
 				<![CDATA[Indignity Morning Podcast No. 192: A big jolt.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-192</link>
 			<guid isPermaLink="false">substack:post:140393422</guid>
@@ -954,7 +954,7 @@
 				<![CDATA[Indignity Morning Podcast No. 191: Engulfed in flames.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-191</link>
 			<guid isPermaLink="false">substack:post:140357060</guid>
@@ -973,7 +973,7 @@
 				<![CDATA[Indignity Morning Podcast No. 190: Unseasonably warm.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-190</link>
 			<guid isPermaLink="false">substack:post:140176188</guid>
@@ -992,7 +992,7 @@
 				<![CDATA[Indignity Morning Podcast No. 189: A truly mystifying piece of Times newswriting.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-189</link>
 			<guid isPermaLink="false">substack:post:140120849</guid>
@@ -1011,7 +1011,7 @@
 				<![CDATA[Indignity Morning Podcast No. 188: Planning to plan.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-188</link>
 			<guid isPermaLink="false">substack:post:140011402</guid>
@@ -1030,7 +1030,7 @@
 				<![CDATA[Indignity Morning Podcast No. 187: Bulldozed beachfront.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-187</link>
 			<guid isPermaLink="false">substack:post:139986473</guid>
@@ -1049,7 +1049,7 @@
 				<![CDATA[Indignity Morning Podcast No. 186: Billowing fiery clouds.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-186</link>
 			<guid isPermaLink="false">substack:post:139957241</guid>
@@ -1068,7 +1068,7 @@
 				<![CDATA[Indignity Morning Podcast No. 185: It'd be nice to let them have a little reunion.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-185</link>
 			<guid isPermaLink="false">substack:post:139924736</guid>
@@ -1087,7 +1087,7 @@
 				<![CDATA[Indignity Morning Podcast No. 184: Trying to change the subject.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-184</link>
 			<guid isPermaLink="false">substack:post:139889765</guid>
@@ -1106,7 +1106,7 @@
 				<![CDATA[Indignity Morning Podcast No. 183: A really attractive semi-abstract composition.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-183</link>
 			<guid isPermaLink="false">substack:post:139817423</guid>
@@ -1125,7 +1125,7 @@
 				<![CDATA[Indignity Morning Podcast No. 182: From fake action on real stuff to real action on fake stuff. ]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-182</link>
 			<guid isPermaLink="false">substack:post:139785892</guid>
@@ -1144,7 +1144,7 @@
 				<![CDATA[Indignity Morning Podcast No. 181: The chatbots are worthless. ]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-181</link>
 			<guid isPermaLink="false">substack:post:139752978</guid>
@@ -1163,7 +1163,7 @@
 				<![CDATA[Indignity Morning Podcast No. 180: Much more space than the ravaging of the world's freshwater fish population got.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-180</link>
 			<guid isPermaLink="false">substack:post:139726117</guid>
@@ -1182,7 +1182,7 @@
 				<![CDATA[Indignity Morning Podcast No. 179: The same guy he's always been.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-179</link>
 			<guid isPermaLink="false">substack:post:139695304</guid>
@@ -1201,7 +1201,7 @@
 				<![CDATA[Indignity Morning Podcast No. 178: Indefensible sketchy payments from foreign sources.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-178</link>
 			<guid isPermaLink="false">substack:post:139620355</guid>
@@ -1220,7 +1220,7 @@
 				<![CDATA[Indignity Morning Podcast No. 177: Still terrible across multiple fronts.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-177</link>
 			<guid isPermaLink="false">substack:post:139506330</guid>
@@ -1239,7 +1239,7 @@
 				<![CDATA[Indignity Morning Podcast No. 176: A sincerely oafish attempt by an American official to influence the voters.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-176</link>
 			<guid isPermaLink="false">substack:post:139474692</guid>
@@ -1258,7 +1258,7 @@
 				<![CDATA[Indignity Morning Podcast No. 175: A mountain of dead bodies.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-175</link>
 			<guid isPermaLink="false">substack:post:139427672</guid>
@@ -1277,7 +1277,7 @@
 				<![CDATA[Indignity Morning Podcast No. 174: Enormous accomplishments.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-174</link>
 			<guid isPermaLink="false">substack:post:139334646</guid>
@@ -1296,7 +1296,7 @@
 				<![CDATA[Indignity Morning Podcast No. 173: Here come the bombs.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-173</link>
 			<guid isPermaLink="false">substack:post:139300549</guid>
@@ -1315,7 +1315,7 @@
 				<![CDATA[Indignity Morning Podcast No. 172: We just make lots of money selling this stuff, you can't expect us to be accountable for knowing where it comes from.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-172</link>
 			<guid isPermaLink="false">substack:post:139268745</guid>
@@ -1334,7 +1334,7 @@
 				<![CDATA[Indignity Morning Podcast No. 171: A problem for Joe Biden. ]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-171</link>
 			<guid isPermaLink="false">substack:post:139238557</guid>
@@ -1353,7 +1353,7 @@
 				<![CDATA[Indignity Morning Podcast No. 170: Irrelevant in context and sourcing.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-170</link>
 			<guid isPermaLink="false">substack:post:139200599</guid>
@@ -1372,7 +1372,7 @@
 				<![CDATA[Indignity Morning Podcast No. 169: One of the great atrocities of the last century-and-a-half of warfare.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-169</link>
 			<guid isPermaLink="false">substack:post:139080590</guid>
@@ -1391,7 +1391,7 @@
 				<![CDATA[Indignity Morning Podcast No. 168: A guy from New Jersey.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-168</link>
 			<guid isPermaLink="false">substack:post:139051028</guid>
@@ -1410,7 +1410,7 @@
 				<![CDATA[Indignity Morning Podcast No. 167: The bombing will continue.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-167</link>
 			<guid isPermaLink="false">substack:post:139023584</guid>
@@ -1429,7 +1429,7 @@
 				<![CDATA[Indignity Morning Podcast No. 166: Totally whiffed on the story.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-166</link>
 			<guid isPermaLink="false">substack:post:138947918</guid>
@@ -1448,7 +1448,7 @@
 				<![CDATA[Indignity Morning Podcast No. 165: Closer to home.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-165</link>
 			<guid isPermaLink="false">substack:post:138920336</guid>
@@ -1467,7 +1467,7 @@
 				<![CDATA[Indignity Morning Podcast No. 164: Givin' 'em the business with the elbow type-business.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-164</link>
 			<guid isPermaLink="false">substack:post:138895504</guid>
@@ -1486,7 +1486,7 @@
 				<![CDATA[Indignity Morning Podcast No. 163: Self-evidently bad.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-163</link>
 			<guid isPermaLink="false">substack:post:138867361</guid>
@@ -1505,7 +1505,7 @@
 				<![CDATA[Indignity Morning Podcast No. 162: What lies underneath.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-162</link>
 			<guid isPermaLink="false">substack:post:138837152</guid>
@@ -1524,7 +1524,7 @@
 				<![CDATA[Indignity Morning Podcast No. 161: Pointless and cruel.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-161</link>
 			<guid isPermaLink="false">substack:post:138758894</guid>
@@ -1543,7 +1543,7 @@
 				<![CDATA[Indignity Morning Podcast No. 160: The panda-loan diplomacy program and attendant merchandising opportunities.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-160</link>
 			<guid isPermaLink="false">substack:post:138731496</guid>
@@ -1562,7 +1562,7 @@
 				<![CDATA[Indignity Morning Podcast No. 159: Objectivity.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-159</link>
 			<guid isPermaLink="false">substack:post:138701034</guid>
@@ -1581,7 +1581,7 @@
 				<![CDATA[Indignity Morning Podcast No. 158: Sewage projects.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-158</link>
 			<guid isPermaLink="false">substack:post:138672830</guid>
@@ -1600,7 +1600,7 @@
 				<![CDATA[Indignity Morning Podcast No. 157: Only 12 more months. [REPOST]]]>
 			</title>
 			<description>
-				<![CDATA[<p>Nothing’s different, just reposting so we can get podcast episode No. 157 to show up on Spotify. Indignity regrets the error.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>Nothing’s different, just reposting so we can get podcast episode No. 157 to show up on Spotify. Indignity regrets the error.</p><p>Get full access to INDIGNITY at www.indignity.net</p>]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-157-de5</link>
 			<guid isPermaLink="false">substack:post:138672325</guid>
@@ -1619,7 +1619,7 @@
 				<![CDATA[Indignity Morning Podcast No. 157: Only 12 more months.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-157</link>
 			<guid isPermaLink="false">substack:post:138640450</guid>
@@ -1638,7 +1638,7 @@
 				<![CDATA[Indignity Morning Podcast No. 156: Various forms of havoc.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-156</link>
 			<guid isPermaLink="false">substack:post:137522071</guid>
@@ -1657,7 +1657,7 @@
 				<![CDATA[Indignity Morning Podcast No. 155: A little bit dumber.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-155</link>
 			<guid isPermaLink="false">substack:post:137484185</guid>
@@ -1676,7 +1676,7 @@
 				<![CDATA[Indignity Morning Podcast No. 154: Presidential neutrality in labor disputes.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-154</link>
 			<guid isPermaLink="false">substack:post:137452231</guid>
@@ -1695,7 +1695,7 @@
 				<![CDATA[Indignity Morning Podcast No. 153: A drug-poisoned hellhole spiraling into anarchy.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-153</link>
 			<guid isPermaLink="false">substack:post:137420854</guid>
@@ -1714,7 +1714,7 @@
 				<![CDATA[Indignity Morning Podcast No. 152: Wackos.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-152</link>
 			<guid isPermaLink="false">substack:post:137387438</guid>
@@ -1733,7 +1733,7 @@
 				<![CDATA[Indignity Morning Podcast No. 151: Peanut butter ice cream]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-151</link>
 			<guid isPermaLink="false">substack:post:137300286</guid>
@@ -1752,7 +1752,7 @@
 				<![CDATA[Indignity Morning Podcast No. 150: Around the Anglosphere.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-150</link>
 			<guid isPermaLink="false">substack:post:137266073</guid>
@@ -1771,7 +1771,7 @@
 				<![CDATA[Indignity Morning Podcast No. 149: A little baffling.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-149</link>
 			<guid isPermaLink="false">substack:post:137222638</guid>
@@ -1790,7 +1790,7 @@
 				<![CDATA[Indignity Morning Podcast No. 148: Not funny.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-148</link>
 			<guid isPermaLink="false">substack:post:137185892</guid>
@@ -1809,7 +1809,7 @@
 				<![CDATA[Indignity Morning Podcast No. 147: An actual meme, an idea fragment that lodges in people's heads and replicates.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-147</link>
 			<guid isPermaLink="false">substack:post:137153010</guid>
@@ -1828,7 +1828,7 @@
 				<![CDATA[Indignity Morning Podcast No. 146: Pathological feats of attempted balance.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-146</link>
 			<guid isPermaLink="false">substack:post:137072767</guid>
@@ -1847,7 +1847,7 @@
 				<![CDATA[Indignity Morning Podcast No. 145: A police dog in Chester County, Pennsylvania caught the escaped convicted murderer.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-145</link>
 			<guid isPermaLink="false">substack:post:137043117</guid>
@@ -1866,7 +1866,7 @@
 				<![CDATA[Indignity Morning Podcast No. 144: Spectacularly bad investments in flaky people.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-144</link>
 			<guid isPermaLink="false">substack:post:137010048</guid>
@@ -1885,7 +1885,7 @@
 				<![CDATA[Indignity Morning Podcast No. 143: Nothing like a processed memory.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-143</link>
 			<guid isPermaLink="false">substack:post:136978045</guid>
@@ -1904,7 +1904,7 @@
 				<![CDATA[Indignity Morning Podcast No. 142: A neutral-looking gray.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-142</link>
 			<guid isPermaLink="false">substack:post:136940894</guid>
@@ -1923,7 +1923,7 @@
 				<![CDATA[Indignity Morning Podcast No. 141: The everyday operating machinery of the Times.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-141</link>
 			<guid isPermaLink="false">substack:post:136851483</guid>
@@ -1942,7 +1942,7 @@
 				<![CDATA[Indignity Morning Podcast No. 140: Google monopoly trial.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-140</link>
 			<guid isPermaLink="false">substack:post:136820097</guid>
@@ -1961,7 +1961,7 @@
 				<![CDATA[Indignity Morning Podcast No. 139: The serial drone bombing of swimming pools with dye packets.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-139</link>
 			<guid isPermaLink="false">substack:post:136795200</guid>
@@ -1980,7 +1980,7 @@
 				<![CDATA[Indignity Morning Podcast No. 138: An almost defensible use of "raising questions."]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-138</link>
 			<guid isPermaLink="false">substack:post:136758874</guid>
@@ -1999,7 +1999,7 @@
 				<![CDATA[Indignity Morning Podcast No. 137: Terrible decisions.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-137</link>
 			<guid isPermaLink="false">substack:post:136642655</guid>
@@ -2018,7 +2018,7 @@
 				<![CDATA[Indignity Morning Podcast No. 136: Grave robbing.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-136</link>
 			<guid isPermaLink="false">substack:post:136601969</guid>
@@ -2037,7 +2037,7 @@
 				<![CDATA[Indignity Morning Podcast No. 135: Eliquis, Jardiance, Xarelto, Januvia, Farxiga, Entresto, Enbrel, Imbruvica, Stelara, Fiasp and NovoLog.]]>
 			</title>
 			<description>
-				<![CDATA[<p>Our transcription service is still very BETA.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>Our transcription service is still very BETA.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-135</link>
 			<guid isPermaLink="false">substack:post:136567166</guid>
@@ -2056,7 +2056,7 @@
 				<![CDATA[Indignity Morning Podcast No. 134: Slight uptick.]]>
 			</title>
 			<description>
-				<![CDATA[<p>Now with TRANSCRIPT [beta].</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>Now with TRANSCRIPT [beta].</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-134</link>
 			<guid isPermaLink="false">substack:post:136528115</guid>
@@ -2075,7 +2075,7 @@
 				<![CDATA[Indignity Morning Podcast No. 133: What are you gonna do?]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-133</link>
 			<guid isPermaLink="false">substack:post:136491402</guid>
@@ -2094,7 +2094,7 @@
 				<![CDATA[Indignity Morning Podcast No. 132: Very wrinkled.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-132</link>
 			<guid isPermaLink="false">substack:post:136413209</guid>
@@ -2113,7 +2113,7 @@
 				<![CDATA[Indignity Morning Podcast No. 131: Epistemologically tortured headline.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-131</link>
 			<guid isPermaLink="false">substack:post:136372290</guid>
@@ -2132,7 +2132,7 @@
 				<![CDATA[Indignity Morning Podcast No. 130: Not much space when you're going 500 miles an hour.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-130</link>
 			<guid isPermaLink="false">substack:post:136342607</guid>
@@ -2151,7 +2151,7 @@
 				<![CDATA[Indignity Morning Podcast No. 129: A sledgehammer.]]>
 			</title>
 			<description>
-				<![CDATA[<p>Apologies for this podcast's delay caused by the host's COVID and the creative director's jury duty.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>Apologies for this podcast's delay caused by the host's COVID and the creative director's jury duty.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-129</link>
 			<guid isPermaLink="false">substack:post:136319289</guid>
@@ -2170,7 +2170,7 @@
 				<![CDATA[Indignity Morning Podcast No. 128: Ceased its existence.]]>
 			</title>
 			<description>
-				<![CDATA[<p>Back from COVID, but still with the COVID.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>Back from COVID, but still with the COVID.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-128</link>
 			<guid isPermaLink="false">substack:post:136286579</guid>
@@ -2189,7 +2189,7 @@
 				<![CDATA[Indignity Morning Podcast No. 127: Unmatched power in the stars.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-127</link>
 			<guid isPermaLink="false">substack:post:135938351</guid>
@@ -2208,7 +2208,7 @@
 				<![CDATA[Indignity Morning Podcast No. 126: An endless cascade of carnage, scandal, and horror.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-126</link>
 			<guid isPermaLink="false">substack:post:135898534</guid>
@@ -2227,7 +2227,7 @@
 				<![CDATA[Indignity Morning Podcast No. 125: Voters seem to really, really not like this stuff.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-125</link>
 			<guid isPermaLink="false">substack:post:135863122</guid>
@@ -2246,7 +2246,7 @@
 				<![CDATA[Indignity Morning Podcast No. 124: The agony of its defeat.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-124</link>
 			<guid isPermaLink="false">substack:post:135833505</guid>
@@ -2265,7 +2265,7 @@
 				<![CDATA[Indignity Morning Podcast No. 123: Gun it down 66th St.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-123</link>
 			<guid isPermaLink="false">substack:post:135795574</guid>
@@ -2284,7 +2284,7 @@
 				<![CDATA[Indignity Morning Podcast No. 122: Under an umbrella.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-122</link>
 			<guid isPermaLink="false">substack:post:135717716</guid>
@@ -2303,7 +2303,7 @@
 				<![CDATA[Indignity Morning Podcast No. 121: A stack of paper.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-121</link>
 			<guid isPermaLink="false">substack:post:135688627</guid>
@@ -2322,7 +2322,7 @@
 				<![CDATA[Indignity Morning Podcast No. 120: An orchestra of 10,000 brass kazoos.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-120</link>
 			<guid isPermaLink="false">substack:post:135659822</guid>
@@ -2341,7 +2341,7 @@
 				<![CDATA[Indignity Morning Podcast No. 119: A new generation of right-wing politicians. ]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-119</link>
 			<guid isPermaLink="false">substack:post:135633228</guid>
@@ -2360,7 +2360,7 @@
 				<![CDATA[Indignity Morning Podcast No. 118: Bad and crappily made.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-118</link>
 			<guid isPermaLink="false">substack:post:135593159</guid>
@@ -2379,7 +2379,7 @@
 				<![CDATA[Indignity Morning Podcast No. 117: It was kinda nice, really.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-117</link>
 			<guid isPermaLink="false">substack:post:135523777</guid>
@@ -2398,7 +2398,7 @@
 				<![CDATA[Indignity Morning Podcast No. 116: News of relentless immiseration.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-116</link>
 			<guid isPermaLink="false">substack:post:135497626</guid>
@@ -2417,7 +2417,7 @@
 				<![CDATA[Indignity Morning Podcast No. 115: The top right-hand news column on the front page.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-115</link>
 			<guid isPermaLink="false">substack:post:135469126</guid>
@@ -2436,7 +2436,7 @@
 				<![CDATA[Indignity Morning Podcast No. 114: How long can you run your political system on stalling the consequences of your actions?]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-114</link>
 			<guid isPermaLink="false">substack:post:135439643</guid>
@@ -2455,7 +2455,7 @@
 				<![CDATA[Indignity Morning Podcast No. 113: The Greek island of Rhodes is on fire.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-113</link>
 			<guid isPermaLink="false">substack:post:135405384</guid>
@@ -2474,7 +2474,7 @@
 				<![CDATA[Indignity Morning Podcast No. 112: Spectacularly uncool things.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-112</link>
 			<guid isPermaLink="false">substack:post:135333006</guid>
@@ -2493,7 +2493,7 @@
 				<![CDATA[Indignity Morning Podcast No. 111: Eliminate misunderstandings.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-111</link>
 			<guid isPermaLink="false">substack:post:135306861</guid>
@@ -2512,7 +2512,7 @@
 				<![CDATA[Indignity Morning Podcast No. 110: Access to a cheaper workforce.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-110</link>
 			<guid isPermaLink="false">substack:post:135278167</guid>
@@ -2531,7 +2531,7 @@
 				<![CDATA[Indignity Morning Podcast No. 109: Congratulations to the magpies.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-109</link>
 			<guid isPermaLink="false">substack:post:135215202</guid>
@@ -2550,7 +2550,7 @@
 				<![CDATA[Indignity Morning Podcast No. 108: The story that belongs on the front page in 2023.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-108</link>
 			<guid isPermaLink="false">substack:post:135117975</guid>
@@ -2569,7 +2569,7 @@
 				<![CDATA[Indignity Morning Podcast No. 107: A guy in a bulletproof vest with a cowboy hat on.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-107</link>
 			<guid isPermaLink="false">substack:post:134851723</guid>
@@ -2588,7 +2588,7 @@
 				<![CDATA[Indignity Morning Podcast No. 106: Lots of terrible things going on out there.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-106</link>
 			<guid isPermaLink="false">substack:post:134722774</guid>
@@ -2607,7 +2607,7 @@
 				<![CDATA[Indignity Morning Podcast No. 105: Speaking of poisoned things.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-105</link>
 			<guid isPermaLink="false">substack:post:134576235</guid>
@@ -2626,7 +2626,7 @@
 				<![CDATA[Indignity Morning Podcast No. 104: The logic of carceralism.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-104</link>
 			<guid isPermaLink="false">substack:post:134483331</guid>
@@ -2645,7 +2645,7 @@
 				<![CDATA[Indignity Morning Podcast No. 103: The Wall Street Journal editorial page is here to tell you not to get excited.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-103</link>
 			<guid isPermaLink="false">substack:post:134328560</guid>
@@ -2664,7 +2664,7 @@
 				<![CDATA[Indignity Morning Podcast No. 102: Picking up the tab.]]>
 			</title>
 			<description>
-				<![CDATA[ <br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-102</link>
 			<guid isPermaLink="false">substack:post:133698544</guid>
@@ -2683,7 +2683,7 @@
 				<![CDATA[Indignity Morning Podcast No. 101: Obtrusive and intrusive. [REPOST]]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-101-609</link>
 			<guid isPermaLink="false">substack:post:133574341</guid>
@@ -2702,7 +2702,7 @@
 				<![CDATA[Indignity Morning Podcast No. 100: Our own little apocalypse.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-100</link>
 			<guid isPermaLink="false">substack:post:133248176</guid>
@@ -2721,7 +2721,7 @@
 				<![CDATA[Indignity Morning Podcast No. 99: Chipping away equal rights.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-99-chipping</link>
 			<guid isPermaLink="false">substack:post:132155113</guid>
@@ -2740,7 +2740,7 @@
 				<![CDATA[Indignity Morning Podcast No. 98: Water breaks.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-98-water</link>
 			<guid isPermaLink="false">substack:post:131924349</guid>
@@ -2759,7 +2759,7 @@
 				<![CDATA[Indignity Morning Podcast No. 97: Mindful breathing.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-97-mindful</link>
 			<guid isPermaLink="false">substack:post:131697518</guid>
@@ -2778,7 +2778,7 @@
 				<![CDATA[Indignity Morning Podcast No. 96: Significant risk of downpours.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-96-significant</link>
 			<guid isPermaLink="false">substack:post:131439774</guid>
@@ -2797,7 +2797,7 @@
 				<![CDATA[Indignity Morning Podcast No. 95: Texas heat wave.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-95-texas</link>
 			<guid isPermaLink="false">substack:post:131196430</guid>
@@ -2816,7 +2816,7 @@
 				<![CDATA[Indignity Morning Podcast No. 94: Two different big explosion stories.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-94-two</link>
 			<guid isPermaLink="false">substack:post:130469156</guid>
@@ -2835,7 +2835,7 @@
 				<![CDATA[Indignity Morning Podcast No. 93: The ad does not say.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-93-the</link>
 			<guid isPermaLink="false">substack:post:130229344</guid>
@@ -2854,7 +2854,7 @@
 				<![CDATA[Indignity Morning Podcast No. 92: Our long slide into darkness. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-92-our</link>
 			<guid isPermaLink="false">substack:post:129997056</guid>
@@ -2873,7 +2873,7 @@
 				<![CDATA[Indignity Morning Podcast No. 91: Meanwhile, in the waters of the Mediterranean off Greece.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-91-meanwhile</link>
 			<guid isPermaLink="false">substack:post:129742391</guid>
@@ -2892,7 +2892,7 @@
 				<![CDATA[Indignity Morning Podcast No. 90: Enceladus contains phosphorus.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-90-enceladus</link>
 			<guid isPermaLink="false">substack:post:128798839</guid>
@@ -2911,7 +2911,7 @@
 				<![CDATA[Indignity Morning Podcast No. 89: One more difference.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-89-one</link>
 			<guid isPermaLink="false">substack:post:128534190</guid>
@@ -2930,7 +2930,7 @@
 				<![CDATA[Indignity Morning Podcast No. 88: Number one piece of news.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-88-number</link>
 			<guid isPermaLink="false">substack:post:128287367</guid>
@@ -2949,7 +2949,7 @@
 				<![CDATA[Indignity Morning Podcast No. 87: Another half day of anticipatory coverage.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-87-another</link>
 			<guid isPermaLink="false">substack:post:128038087</guid>
@@ -2968,7 +2968,7 @@
 				<![CDATA[Indignity Morning Podcast No. 86: Corrupting the judiciary.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-86-corrupting</link>
 			<guid isPermaLink="false">substack:post:127788289</guid>
@@ -2987,7 +2987,7 @@
 				<![CDATA[Indignity Morning Podcast No. 85: A procedural objection.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-85-a</link>
 			<guid isPermaLink="false">substack:post:127150345</guid>
@@ -3006,7 +3006,7 @@
 				<![CDATA[Indignity Morning Podcast No. 84 Update: BREAKING NEWS.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-84-update</link>
 			<guid isPermaLink="false">substack:post:126911352</guid>
@@ -3025,7 +3025,7 @@
 				<![CDATA[Indignity Morning Podcast No. 84: Doug Burgum.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-83-doug</link>
 			<guid isPermaLink="false">substack:post:126899052</guid>
@@ -3044,7 +3044,7 @@
 				<![CDATA[Indignity Morning Podcast No. 83: There’s nowhere to go to get away from it.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p></p><p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-83-theres</link>
 			<guid isPermaLink="false">substack:post:126661921</guid>
@@ -3063,7 +3063,7 @@
 				<![CDATA[Indignity Morning Podcast No. 82: The atrocities of imperial warfare.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-82-the</link>
 			<guid isPermaLink="false">substack:post:126439422</guid>
@@ -3082,7 +3082,7 @@
 				<![CDATA[Indignity Morning Podcast No. 81: People and sharks swimming together.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms</p><p>.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms</p><p>.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-81-people</link>
 			<guid isPermaLink="false">substack:post:126181367</guid>
@@ -3101,7 +3101,7 @@
 				<![CDATA[Indignity Morning Podcast No. 80: The trouble is not really looming, the trouble is completely there.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-80-the</link>
 			<guid isPermaLink="false">substack:post:125529149</guid>
@@ -3120,7 +3120,7 @@
 				<![CDATA[Indignity Morning Podcast No. 79: The same story Hamilton had two days ago.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-79-the</link>
 			<guid isPermaLink="false">substack:post:125302484</guid>
@@ -3139,7 +3139,7 @@
 				<![CDATA[Indignity Morning Podcast No. 78: Nervously trying to pad out a single line of research.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-78-nervously</link>
 			<guid isPermaLink="false">substack:post:125054889</guid>
@@ -3158,7 +3158,7 @@
 				<![CDATA[Indignity Morning Podcast No. 77: Champion of civility and good government.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-77-champion</link>
 			<guid isPermaLink="false">substack:post:124811387</guid>
@@ -3177,7 +3177,7 @@
 				<![CDATA[Indignity Morning Podcast No. 76: Look at all these cases.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-76-look</link>
 			<guid isPermaLink="false">substack:post:123981818</guid>
@@ -3196,7 +3196,7 @@
 				<![CDATA[Indignity Morning Podcast No. 75: Tasty and affordable hot dogs.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-75-tasty</link>
 			<guid isPermaLink="false">substack:post:123750243</guid>
@@ -3215,7 +3215,7 @@
 				<![CDATA[Indignity Morning Podcast No. 74: A stillborn feature on a dying website.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-74-a</link>
 			<guid isPermaLink="false">substack:post:123516941</guid>
@@ -3234,7 +3234,7 @@
 				<![CDATA[Indignity Morning Podcast No. 73: Enthusiastic promoters.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-73-enthusiastic</link>
 			<guid isPermaLink="false">substack:post:123327314</guid>
@@ -3253,7 +3253,7 @@
 				<![CDATA[Indignity Morning Podcast No. 72: Authentic and genuine.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-72-authentic</link>
 			<guid isPermaLink="false">substack:post:123117184</guid>
@@ -3272,7 +3272,7 @@
 				<![CDATA[Indignity Morning Podcast No. 71: How can you love something you don’t respect.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-71-how</link>
 			<guid isPermaLink="false">substack:post:122495949</guid>
@@ -3291,7 +3291,7 @@
 				<![CDATA[Indignity Morning Podcast No. 70: It will all have to go on a lot longer before we can officially declare failure.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-70-it</link>
 			<guid isPermaLink="false">substack:post:122276627</guid>
@@ -3310,7 +3310,7 @@
 				<![CDATA[Indignity Morning Podcast No. 69: Something completely inevitable.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-69-something</link>
 			<guid isPermaLink="false">substack:post:122059114</guid>
@@ -3329,7 +3329,7 @@
 				<![CDATA[Indignity Morning Podcast No. 68: Whacked out on Viagra and wine. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-68-whacked</link>
 			<guid isPermaLink="false">substack:post:121827211</guid>
@@ -3348,7 +3348,7 @@
 				<![CDATA[Indignity Morning Podcast No. 67: The season for recriminations and slander. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-67-the</link>
 			<guid isPermaLink="false">substack:post:121583165</guid>
@@ -3367,7 +3367,7 @@
 				<![CDATA[Indignity Morning Podcast No. 66: A hot day in New York. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-66-a</link>
 			<guid isPermaLink="false">substack:post:120987588</guid>
@@ -3386,7 +3386,7 @@
 				<![CDATA[Indignity Morning Podcast No. 65: Giving people the news coverage that's proven to work.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-65-giving</link>
 			<guid isPermaLink="false">substack:post:120769546</guid>
@@ -3405,7 +3405,7 @@
 				<![CDATA[Indignity Morning Podcast No. 64: Kinda boring.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-64-kinda</link>
 			<guid isPermaLink="false">substack:post:120529092</guid>
@@ -3424,7 +3424,7 @@
 				<![CDATA[Indignity Morning Podcast No. 63: Staying away from the courtroom.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-63-staying</link>
 			<guid isPermaLink="false">substack:post:120293522</guid>
@@ -3443,7 +3443,7 @@
 				<![CDATA[Indignity Morning Podcast No. 62: All out of ideas.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-62-all</link>
 			<guid isPermaLink="false">substack:post:120076231</guid>
@@ -3462,7 +3462,7 @@
 				<![CDATA[Indignity Morning Podcast No. 61: A crisis of confidence.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-61-a</link>
 			<guid isPermaLink="false">substack:post:119488613</guid>
@@ -3481,7 +3481,7 @@
 				<![CDATA[Indignity Morning Podcast No. 60: At-risk youth. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-60-at</link>
 			<guid isPermaLink="false">substack:post:119280766</guid>
@@ -3500,7 +3500,7 @@
 				<![CDATA[Indignity Morning Podcast No. 59: A violent hellscape.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-59-a</link>
 			<guid isPermaLink="false">substack:post:119050814</guid>
@@ -3519,7 +3519,7 @@
 				<![CDATA[Indignity Morning Podcast No. 58: The creeps who founded it will stay rich.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-58-the</link>
 			<guid isPermaLink="false">substack:post:118811734</guid>
@@ -3538,7 +3538,7 @@
 				<![CDATA[Indignity Morning Podcast No. 57: Cashing in their star power when it matters most.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-57-cashing</link>
 			<guid isPermaLink="false">substack:post:118578971</guid>
@@ -3557,7 +3557,7 @@
 				<![CDATA[Indignity Morning Podcast No. 56: Emmett Till would be 81 years old if he hadn't been murdered.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p><p>INDIGNITY is a reader-supported publication. To receive new posts and support our work, consider becoming a free or paid subscriber.</p></p><p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p><p>INDIGNITY is a reader-supported publication. To receive new posts and support our work, consider becoming a free or paid subscriber.</p></p><p></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-56-emmett</link>
 			<guid isPermaLink="false">substack:post:117897319</guid>
@@ -3576,7 +3576,7 @@
 				<![CDATA[Indignity Morning Podcast No. 55: Bottom-up chaos.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-55-bottom</link>
 			<guid isPermaLink="false">substack:post:117683425</guid>
@@ -3595,7 +3595,7 @@
 				<![CDATA[Indignity Morning Podcast No. 54: The power of celebrity.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-54-the</link>
 			<guid isPermaLink="false">substack:post:117430071</guid>
@@ -3614,7 +3614,7 @@
 				<![CDATA[Indignity Morning Podcast No. 53: Neither accountable nor predictable.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-53-neither</link>
 			<guid isPermaLink="false">substack:post:117190630</guid>
@@ -3633,7 +3633,7 @@
 				<![CDATA[Indignity Morning Podcast No. 52: Still up for doing a bit.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-52-still</link>
 			<guid isPermaLink="false">substack:post:116950768</guid>
@@ -3652,7 +3652,7 @@
 				<![CDATA[Indignity Morning Podcast No. 51: The last of the hundreds of rubber bands.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-51-the</link>
 			<guid isPermaLink="false">substack:post:116327001</guid>
@@ -3671,7 +3671,7 @@
 				<![CDATA[Indignity Morning Podcast No. 50: Seeking refuge from apocalyptic devastation.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-50-seeking</link>
 			<guid isPermaLink="false">substack:post:116108376</guid>
@@ -3690,7 +3690,7 @@
 				<![CDATA[Indignity Morning Podcast No. 49: Back to the business of making money.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-49-back</link>
 			<guid isPermaLink="false">substack:post:115861372</guid>
@@ -3709,7 +3709,7 @@
 				<![CDATA[Indignity Morning Podcast No. 48: Best of luck to the Delaware icon. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-48-best</link>
 			<guid isPermaLink="false">substack:post:115639301</guid>
@@ -3728,7 +3728,7 @@
 				<![CDATA[Indignity Morning Podcast No. 47: Looking forward to learning a lot about crime in New York City.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-47-looking</link>
 			<guid isPermaLink="false">substack:post:115420310</guid>
@@ -3747,7 +3747,7 @@
 				<![CDATA[Indignity Morning Podcast No. 46: An everyman with modest tastes.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-46-an</link>
 			<guid isPermaLink="false">substack:post:113080059</guid>
@@ -3766,7 +3766,7 @@
 				<![CDATA[Indignity Morning Podcast No. 45: The Times bounces back.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-45-the</link>
 			<guid isPermaLink="false">substack:post:112865627</guid>
@@ -3785,7 +3785,7 @@
 				<![CDATA[Indignity Morning Podcast No. 44: Make your way to the 22nd paragraph of the story.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-44-make</link>
 			<guid isPermaLink="false">substack:post:112642261</guid>
@@ -3804,7 +3804,7 @@
 				<![CDATA[Indignity Morning Podcast No. 43: A tedious discourse cycle. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-43-a</link>
 			<guid isPermaLink="false">substack:post:112433941</guid>
@@ -3823,7 +3823,7 @@
 				<![CDATA[Indignity Morning Podcast No. 42: A big day for legal news.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-42-a</link>
 			<guid isPermaLink="false">substack:post:111866447</guid>
@@ -3842,7 +3842,7 @@
 				<![CDATA[Indignity Morning Podcast No. 41: Get yourself the most beautiful building in the city.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-41-get</link>
 			<guid isPermaLink="false">substack:post:111649651</guid>
@@ -3861,7 +3861,7 @@
 				<![CDATA[Indignity Morning Podcast No. 40: The very lonesome seven point five percent.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-40-the</link>
 			<guid isPermaLink="false">substack:post:111434845</guid>
@@ -3880,7 +3880,7 @@
 				<![CDATA[Indignity Morning Podcast No. 39: Keep fortifying more potential targets.]]>
 			</title>
 			<description>
-				<![CDATA[<p>Thanks for listening. Please support INDIGNITY!</p><p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>Thanks for listening. Please support INDIGNITY!</p><p></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-39-keep</link>
 			<guid isPermaLink="false">substack:post:111239772</guid>
@@ -3899,7 +3899,7 @@
 				<![CDATA[Indignity Morning Podcast No. 38: Molon labe.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-38-molon</link>
 			<guid isPermaLink="false">substack:post:111023351</guid>
@@ -3918,7 +3918,7 @@
 				<![CDATA[Indignity Morning Podcast No. 37: The long hangover from the non-event of the week.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-37-the</link>
 			<guid isPermaLink="false">substack:post:110432148</guid>
@@ -3937,7 +3937,7 @@
 				<![CDATA[Indignity Morning Podcast No. 36: The same source echoing back and forth.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. Thanks for listening and/or reading. Please support INDIGNITY!</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. Thanks for listening and/or reading. Please support INDIGNITY!</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-36-the</link>
 			<guid isPermaLink="false">substack:post:110225625</guid>
@@ -3956,7 +3956,7 @@
 				<![CDATA[Indignity Morning Podcast No. 35: Stress-eating a bunch of words.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. Thanks for listening and/or reading. Please support INDIGNITY!</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. Thanks for listening and/or reading. Please support INDIGNITY!</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-35</link>
 			<guid isPermaLink="false">substack:post:110010800</guid>
@@ -3975,7 +3975,7 @@
 				<![CDATA[Indignity Morning Podcast No. 34: The thing that hasn't happened.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. Thanks for listening and/or reading. Please support INDIGNITY!</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. Thanks for listening and/or reading. Please support INDIGNITY!</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-34-the</link>
 			<guid isPermaLink="false">substack:post:109813356</guid>
@@ -3994,7 +3994,7 @@
 				<![CDATA[Indignity Morning Podcast No. 33: Deeply absorbed but not thoroughly learned. [REPOST]]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p><em>PRODUCTION NOTE: This is the podcast for today. Don’t pay any attention to that podcast somebody (not gonna say who but their initials are Joe MacLeod) posted earlier that was accidentally from Friday. Thank you.</em></p><p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p><em>PRODUCTION NOTE: This is the podcast for today. Don’t pay any attention to that podcast somebody (not gonna say who but their initials are Joe MacLeod) posted earlier that was accidentally from Friday. Thank you.</em></p><p></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-33-deeply</link>
 			<guid isPermaLink="false">substack:post:109593939</guid>
@@ -4013,7 +4013,7 @@
 				<![CDATA[Indignity Morning Podcast No. 32: Happy Evacuation Day.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. <em>PRODUCTION NOTE:</em><em>We made it louder today.</em></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. <em>PRODUCTION NOTE:</em><em>We made it louder today.</em></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-32-happy</link>
 			<guid isPermaLink="false">substack:post:109014402</guid>
@@ -4032,7 +4032,7 @@
 				<![CDATA[Indignity Morning Podcast No. 31: Why would you show up for work at Axios this week?]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-31-why</link>
 			<guid isPermaLink="false">substack:post:108817116</guid>
@@ -4051,7 +4051,7 @@
 				<![CDATA[Indignity Morning Podcast No. 30: An unchecked apex predator running around.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-30-an</link>
 			<guid isPermaLink="false">substack:post:108616734</guid>
@@ -4070,7 +4070,7 @@
 				<![CDATA[Indignity Morning Podcast No. 29: The sober stewards of our economy.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-29-the</link>
 			<guid isPermaLink="false">substack:post:108399258</guid>
@@ -4089,7 +4089,7 @@
 				<![CDATA[Indignity Morning Podcast No. 28: The free expression of a tenured academic in the public sphere.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-28-the</link>
 			<guid isPermaLink="false">substack:post:108178063</guid>
@@ -4108,7 +4108,7 @@
 				<![CDATA[Indignity Morning Podcast No. 27: Crushing the economy and putting workers back in their place.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-27-crushing</link>
 			<guid isPermaLink="false">substack:post:107641231</guid>
@@ -4127,7 +4127,7 @@
 				<![CDATA[Indignity Morning Podcast No. 26: A hilariously false application of sportswriting cliche.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-26-a</link>
 			<guid isPermaLink="false">substack:post:107414909</guid>
@@ -4146,7 +4146,7 @@
 				<![CDATA[Indignity Morning Podcast No. 25: Frustrated and alarmed.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-25-frustrated</link>
 			<guid isPermaLink="false">substack:post:107210948</guid>
@@ -4165,7 +4165,7 @@
 				<![CDATA[Indignity Morning Podcast No. 24: What four reporters can tell you.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-23-what</link>
 			<guid isPermaLink="false">substack:post:107009165</guid>
@@ -4184,7 +4184,7 @@
 				<![CDATA[Indignity Morning Podcast No. 23: PEnnsylvania 6-5000.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-23-pennsylvania</link>
 			<guid isPermaLink="false">substack:post:106788426</guid>
@@ -4203,7 +4203,7 @@
 				<![CDATA[Indignity Morning Podcast No. 22: Roll up the window.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-22-roll</link>
 			<guid isPermaLink="false">substack:post:106233005</guid>
@@ -4222,7 +4222,7 @@
 				<![CDATA[Indignity Morning Podcast No. 21: How law and order works.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-21-how</link>
 			<guid isPermaLink="false">substack:post:106030668</guid>
@@ -4241,7 +4241,7 @@
 				<![CDATA[Indignity Morning Podcast No. 20: Rolling around in a big pile of money like Jimmy Swaggart]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-20-rolling</link>
 			<guid isPermaLink="false">substack:post:105839890</guid>
@@ -4260,7 +4260,7 @@
 				<![CDATA[Indignity Morning Podcast No. 19: An advertising fee.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-19-an</link>
 			<guid isPermaLink="false">substack:post:105628342</guid>
@@ -4279,7 +4279,7 @@
 				<![CDATA[Indignity Morning Podcast No. 18: A symptom of an illness in the American psyche.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><p></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-18-a</link>
 			<guid isPermaLink="false">substack:post:105428683</guid>
@@ -4298,7 +4298,7 @@
 				<![CDATA[Indignity Morning Podcast No. 17: A memo to an editor.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-17-a</link>
 			<guid isPermaLink="false">substack:post:104881393</guid>
@@ -4317,7 +4317,7 @@
 				<![CDATA[Indignity Morning Podcast No. 16: A valid quote of criticism from a Diner Guy.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-16-a</link>
 			<guid isPermaLink="false">substack:post:104676018</guid>
@@ -4336,7 +4336,7 @@
 				<![CDATA[Indignity Morning Podcast No. 15: Sunbathing in winter while the ski slopes melt.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-15-sunbathing</link>
 			<guid isPermaLink="false">substack:post:104470587</guid>
@@ -4355,7 +4355,7 @@
 				<![CDATA[Indignity Morning Podcast No. 14: Somebody leaked confidential information and fabricated stories.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is also available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-14-somebody</link>
 			<guid isPermaLink="false">substack:post:104269791</guid>
@@ -4374,7 +4374,7 @@
 				<![CDATA[Indignity Morning Podcast No. 13: Vague lumpy forms inside an opaque bag. (Podcast repost)]]>
 			</title>
 			<description>
-				<![CDATA[<p><em>NOTE/BORING EXPLANATION: This is technically a repost of a repost owing to a series of technical difficulties. Kindly excuse the redundancy!</em></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p><em>NOTE/BORING EXPLANATION: This is technically a repost of a repost owing to a series of technical difficulties. Kindly excuse the redundancy!</em></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-13-vague</link>
 			<guid isPermaLink="false">substack:post:103957434</guid>
@@ -4393,7 +4393,7 @@
 				<![CDATA[Indignity Morning Podcast No. 12: A good old American shootout in the food court.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. If you would like to have it emailed to you separately and earlier in the day, head to <strong>Manage your subscription</strong>, where you can select and choose which sections to receive. <strong>More info here</strong><strong>. </strong>Thank you for trying to listen!</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms. If you would like to have it emailed to you separately and earlier in the day, head to <strong>Manage your subscription</strong>, where you can select and choose which sections to receive. <strong>More info here</strong><strong>. </strong>Thank you for trying to listen!</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-12-a</link>
 			<guid isPermaLink="false">substack:post:103300033</guid>
@@ -4412,7 +4412,7 @@
 				<![CDATA[Indignity Morning Podcast No. 11: Outward from the equator. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Apple</strong>and <strong>Spotify</strong>platforms.</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-11-outward</link>
 			<guid isPermaLink="false">substack:post:103077140</guid>
@@ -4431,7 +4431,7 @@
 				<![CDATA[Indignity Morning Podcast No. 10: The ambient brutality of everyday life.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. </p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. </p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-10</link>
 			<guid isPermaLink="false">substack:post:102876464</guid>
@@ -4450,7 +4450,7 @@
 				<![CDATA[Indignity Morning Podcast No. 9: Another celebration of proceduralism, legalism, surveillance, and control.]]>
 			</title>
 			<description>
-				<![CDATA[<p><em>SUBSCRIBERS: Have the Indignity Morning Podcast delivered separately to your electronic mail in-box! </em></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p><em>SUBSCRIBERS: Have the Indignity Morning Podcast delivered separately to your electronic mail in-box! </em></p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-9-another</link>
 			<guid isPermaLink="false">substack:post:102653313</guid>
@@ -4469,7 +4469,7 @@
 				<![CDATA[Indignity Morning Podcast No. 8: A 26-story high-rise pig farm.]]>
 			</title>
 			<description>
-				<![CDATA[<p><em>SUBSCRIBERS: </em><em>Have the </em><em>Indignity Morning Podcast</em><em>delivered separately to your electronic mail in-box! We don’t add subscribers automatically, we want you to be in charge! Head to </em><em>Manage your subscription</em><em>, where you can select and choose which sections to receive. </em><em>More info here</em><em>.</em></p><p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. We appreciate your patience as we connect the pods to the distribution nodes!</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p><em>SUBSCRIBERS: </em><em>Have the </em><em>Indignity Morning Podcast</em><em>delivered separately to your electronic mail in-box! We don’t add subscribers automatically, we want you to be in charge! Head to </em><em>Manage your subscription</em><em>, where you can select and choose which sections to receive. </em><em>More info here</em><em>.</em></p><p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. We appreciate your patience as we connect the pods to the distribution nodes!</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-8-a</link>
 			<guid isPermaLink="false">substack:post:102104279</guid>
@@ -4488,7 +4488,7 @@
 				<![CDATA[Indignity Morning Podcast No. 7: Unreliable conduits of information.]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. We appreciate your patience as we connect the pods to the distribution nodes!</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. We appreciate your patience as we connect the pods to the distribution nodes!</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-7-unreliable</link>
 			<guid isPermaLink="false">substack:post:101883230</guid>
@@ -4507,7 +4507,7 @@
 				<![CDATA[Indignity Morning Podcast No. 6: Caught flat-footed on national television. ]]>
 			</title>
 			<description>
-				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. We appreciate your patience as we connect the pods to the distribution nodes!</p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				<![CDATA[<p>The Indignity Morning Podcast is now available via the <strong>Spotify</strong>platform. We appreciate your patience as we connect the pods to the distribution nodes!</p><br/><br/>Get full access to INDIGNITY at www.indignity.net]]>
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-6-caught</link>
 			<guid isPermaLink="false">substack:post:101660829</guid>
@@ -4526,7 +4526,7 @@
 				<![CDATA[Indignity Morning Podcast No. 5: ’90s Al-Qaeda energy. ]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-5-90s</link>
 			<guid isPermaLink="false">substack:post:101431693</guid>
@@ -4545,7 +4545,7 @@
 				<![CDATA[Indignity Morning Podcast No. 4: Getting dismayed or alarmed or excited about anything else in the world seems pretty much pointless.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-4-getting</link>
 			<guid isPermaLink="false">substack:post:101231559</guid>
@@ -4564,7 +4564,7 @@
 				<![CDATA[Indignity Morning Podcast No. 3: Aggressive weirdos in Congress.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-3-aggressive</link>
 			<guid isPermaLink="false">substack:post:100671128</guid>
@@ -4583,7 +4583,7 @@
 				<![CDATA[ Indignity Morning Podcast No. 2: You are the culture war.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-2-you</link>
 			<guid isPermaLink="false">substack:post:100461918</guid>
@@ -4602,7 +4602,7 @@
 				<![CDATA[Indignity Morning Podcast No. 1: A 1.4 million dollar bicorne hat.]]>
 			</title>
 			<description>
-				<![CDATA[<p></p><br/><br/>Get full access to INDIGNITY at <a href="https://indignity.substack.com/subscribe?utm_medium=podcast&#38;utm_campaign=CTA_4">indignity.substack.com/subscribe</a>]]>
+				Get full access to INDIGNITY at www.indignity.net
 			</description>
 			<link>https://indignity.substack.com/p/indignity-morning-podcast-no-1-a</link>
 			<guid isPermaLink="false">substack:post:100260735</guid>
